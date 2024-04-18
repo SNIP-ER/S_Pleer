@@ -1,4 +1,4 @@
-# Before starting:
+# Before starting
 - Application usage:
 1) Download Python
 2) Install EEl (Python library) - pip install eel (insert command into console)
