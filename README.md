@@ -1,7 +1,7 @@
 # Before starting:
 - Application usage:
 1) Download Python
-2) Install EEl (Python library) - pip install eel
+2) Install EEl (Python library) - pip install eel (insert command into console)
 - Using as a website:
 1) Download only folder "web" and run file "index.html"
 
