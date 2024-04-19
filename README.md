@@ -12,6 +12,6 @@
 
 # Songwriting
 - Versions 1.0 - 2.1:
-  1) Transfer music file (mp3 format) to web/music folder
-  2) Transfer the cover (if any) for the track (jpg format) into the web/img folder. Name - cover{track number on the score}.
-  3) Open the main.js file (web/main.js) in any text editor and add the file name to the list in 16 lines (file name, no extension, registor any) - ,'{name}'.
+1) Transfer music file (mp3 format) to web/music folder
+2) Transfer the cover (if any) for the track (jpg format) into the web/img folder. Name - cover{track number on the score}.
+3) Open the main.js file (web/main.js) in any text editor and add the file name to the list in 16 lines (file name, no extension, registor any) - ,'{name}'.
